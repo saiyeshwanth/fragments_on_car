@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">gocar</string>
+    <string name="t1">Passenger Signin</string>
+    <string name="t2">Passenger Signup</string>
+    <string name="t3">Driver Signin</string>
+    <string name="t4">Driver Signup</string>
+    <string name="t5">Passenger ids</string>
+    <string name="t6">Driver ids</string>
+    <string name="t7">This app is for Testing purpose.</string>
+
+
+
+
+
+
+</resources>
